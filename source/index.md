@@ -12,6 +12,6 @@ In general, Plan9 is considered beyond the average computer user's knowledge. We
 :maxdepth: 2
 :glob:
 
-cluster/acknowledgements
+cluster/acknowledgments
 ```
 
